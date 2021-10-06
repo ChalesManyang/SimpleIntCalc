@@ -1,0 +1,16 @@
+body {background-color:black;
+font-family:aerial;
+color:white;}
+h1{color:grey;
+font-family:verdana;}
+
+.maindiv{
+    background-color:white;
+    width:300px;
+    padding:20px;
+    text-align:center;
+    border-radius:25px;
+    text-align:center;
+}
+
+
